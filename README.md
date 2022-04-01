@@ -40,7 +40,7 @@ if __name__ == '__main__':
 
 <div align="center">
   <a href="ttps://spotify-github-profile.vercel.app/api/view?uid=laff-u-&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=laff-u-&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" width="600px">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=laff-u-&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" width="450px">
   </a>
 </div>
 
