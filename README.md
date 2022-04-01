@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>Lushi</b>
+  <b>João Pedro 'Lushi' Mascarello</b>
 </h1>
 
 Heya! I'm João Pedro a.k.a 'Lushi', a student currently living in Marau/RS, Brasil. I'm a Computer Science Student at
