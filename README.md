@@ -29,6 +29,7 @@ class Lushi():
     self.twitter = "@lushisamurai";
     self.instagram = "@lushisamurai";
     self.discord = "Lushi#0666";
+    self.linkedin = "João Pedro Mascarello";
   
   def __str__(self):
     return self.name
