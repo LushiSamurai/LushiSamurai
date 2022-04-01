@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>João Pedro 'Lushi' Mascarello</b>
+  <b>João Pedro 'Lushi' Mascarelo</b>
 </h1>
 
 Heya! I'm João Pedro a.k.a 'Lushi', a student currently living in Marau/RS, Brasil. I'm a Computer Science Student at
@@ -23,13 +23,13 @@ and i'm also learning programming through freelancing and small projects on the 
 class Lushi():
     
   def __init__(self):
-    self.name = "João Pedro Mascarello";
+    self.name = "João Pedro Mascarelo";
     self.username = "lushisamurai";
     self.location = "Marau-RS, Brasil";
     self.twitter = "@lushisamurai";
     self.instagram = "@lushisamurai";
     self.discord = "Lushi#0666";
-    self.linkedin = "João Pedro Mascarello";
+    self.linkedin = "João Pedro Mascarelo";
   
   def __str__(self):
     return self.name
