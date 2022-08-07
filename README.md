@@ -29,7 +29,7 @@ class Lushi():
     self.location = "Marau-RS, Brasil";
     self.twitter = "@lushisamurai";
     self.instagram = "@lushisamurai";
-    self.discord = "Lushi#0666";
+    self.discord = "Lushi#7750";
     self.linkedin = "João Pedro Mascarelo";
   
   def __str__(self):
